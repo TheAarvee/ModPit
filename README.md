@@ -1,6 +1,7 @@
 # ModPit
 
 ModPit helps moderators review reported posts faster by clustering similar reports and applying moderation actions in bulk.
+
 <img width="600" height="400" alt="ModPit Thumbnail" src="https://github.com/user-attachments/assets/afe4e24b-5b02-45f2-84d9-efaf578d2306" />
 
 ## What It Does
